@@ -1,0 +1,15 @@
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/bin/Debug/net7.0/lab_one_creating_classes
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/bin/Debug/net7.0/lab_one_creating_classes.deps.json
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/bin/Debug/net7.0/lab_one_creating_classes.runtimeconfig.json
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/bin/Debug/net7.0/lab_one_creating_classes.dll
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/bin/Debug/net7.0/lab_one_creating_classes.pdb
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/lab_one_creating_classes.csproj.AssemblyReference.cache
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/lab_one_creating_classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/lab_one_creating_classes.AssemblyInfoInputs.cache
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/lab_one_creating_classes.AssemblyInfo.cs
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/lab_one_creating_classes.csproj.CoreCompileInputs.cache
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/lab_one_creating_classes.dll
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/refint/lab_one_creating_classes.dll
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/lab_one_creating_classes.pdb
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/lab_one_creating_classes.genruntimeconfig.cache
+/Users/gie/Desktop/oop 2/lab_one_creating_classes/lab_one_creating_classes/obj/Debug/net7.0/ref/lab_one_creating_classes.dll
